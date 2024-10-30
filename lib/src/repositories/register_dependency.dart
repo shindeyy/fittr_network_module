@@ -23,7 +23,7 @@ class RegisterDependencies {
 
 // headers: {
 //       'Content-Type': 'application/json',
-//       'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMTY5NzQiLCJjcmVhdGVkX2F0Ijp7ImRhdGUiOiIyMDI0LTEwLTI0IDExOjQzOjEwLjA2NTY5MCIsInRpbWV6b25lX3R5cGUiOjMsInRpbWV6b25lIjoiVVRDIn0sImVtYWlsIjoieW9nZXNoQGZpdHRyLmNvbSIsInByb3ZpZGVyIjoiREVGQVVMVCIsImlzX2FkbWluIjowLCJpc19jb2FjaCI6MCwiaXNfdHJhaW5lciI6MCwibG9naW5faGlzdG9yeV9pZCI6NTgwNywiaXNfY29ycG9yYXRlX3VzZXIiOjAsImNvcnBvcmF0ZV9pZCI6MH0.0lPYCRmG1CvNLl0XVdVyGyA0wtoeKufYfWBA_C7oc_s', // Add your auth token or any other default headers
+//       'Authorization': 'Bearer ', // Add your auth token or any other default headers
 //       'device-type':'android',
 //       'app-code': '8.8.5',
 //       'app-ver': '405',
@@ -43,7 +43,7 @@ class RegisterDependencies {
       headers: {
         'Content-Type': 'application/json',
         'Authorization':
-            'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMTY5NzQiLCJjcmVhdGVkX2F0Ijp7ImRhdGUiOiIyMDI0LTEwLTI4IDA0OjM5OjIxLjQ1MjcxOCIsInRpbWV6b25lX3R5cGUiOjMsInRpbWV6b25lIjoiVVRDIn0sImVtYWlsIjoieW9nZXNoQGZpdHRyLmNvbSIsInByb3ZpZGVyIjoiREVGQVVMVCIsImlzX2FkbWluIjowLCJpc19jb2FjaCI6MCwiaXNfdHJhaW5lciI6MCwibG9naW5faGlzdG9yeV9pZCI6MTg2LCJpc19jb3Jwb3JhdGVfdXNlciI6MCwiY29ycG9yYXRlX2lkIjowfQ.J4ETIIs6est-i2ARVHYziAk4XYMCKyDY-BFsXI-gJoo', // Add your auth token or any other default headers
+            'Bearer TOKEN', // Add your auth token or any other default headers
         'device-type': 'android',
         'devicetype': 'android',
       },
@@ -80,7 +80,7 @@ class RegisterDependencies {
       headers: {
         'Content-Type': 'application/json',
         'Authorization':
-            'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMTY5NzQiLCJjcmVhdGVkX2F0Ijp7ImRhdGUiOiIyMDI0LTEwLTI4IDA0OjM5OjIxLjQ1MjcxOCIsInRpbWV6b25lX3R5cGUiOjMsInRpbWV6b25lIjoiVVRDIn0sImVtYWlsIjoieW9nZXNoQGZpdHRyLmNvbSIsInByb3ZpZGVyIjoiREVGQVVMVCIsImlzX2FkbWluIjowLCJpc19jb2FjaCI6MCwiaXNfdHJhaW5lciI6MCwibG9naW5faGlzdG9yeV9pZCI6MTg2LCJpc19jb3Jwb3JhdGVfdXNlciI6MCwiY29ycG9yYXRlX2lkIjowfQ.J4ETIIs6est-i2ARVHYziAk4XYMCKyDY-BFsXI-gJoo', // Add your auth token or any other default headers
+            'Bearer TOKEN', // Add your auth token or any other default headers
         'device-type': 'android',
         'devicetype': 'android',
       },
